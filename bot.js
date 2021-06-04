@@ -44,6 +44,6 @@ client.on("message", async message => {
     }
   });
 
-client.login("botunuzuntokeni")
+client.login("ODQzMTE0MjIzMjYxMTg4MTE2.YJ_JTw.f6iNOtwy34tFWZ7zBgBWi_N3tck")
 
 module.exports = client;
